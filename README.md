@@ -1,4 +1,4 @@
-# [PaulZaman]
+# PaulZaman
 
 ## About Me 🚀
 
