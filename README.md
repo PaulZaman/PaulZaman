@@ -2,7 +2,7 @@
 
 
 
-<img href="url" src="https://user-images.githubusercontent.com/64264952/248558371-88df50dd-c846-4fb3-bb68-3fe328cd71e2.png?v=1" height="auto" width="200" style="border-radius:50%">
+<img href="url" src="https://github.com/PaulZaman/PaulZaman/assets/64264952/ee39fab5-3cd7-401c-9a0e-347f57ccb099" height="auto" width="200">
 
 #  < PaulZaman />
 
