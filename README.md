@@ -31,7 +31,7 @@ Here are a few notable projects from my GitHub repository:
 
 **Data Analysis and Machine Learning 📊** - Projects focused on analyzing and extracting insights from data, applying machine learning techniques for predictive modeling and decision making.
 
-##Contact Information 📬
+## Contact Information 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-zamanian-abbassi-899126196/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.c.zamanian@gmail.com)
 
