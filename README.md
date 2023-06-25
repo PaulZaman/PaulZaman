@@ -20,9 +20,10 @@ Here are a few notable projects from my GitHub repository:
 **Full Stack Websites 🌐** - Creation of dynamic and responsive websites using a combination of HTML, CSS, JavaScript, and frameworks like React and Vue.
 **Data Analysis and Machine Learning 📊** - Projects focused on analyzing and extracting insights from data, applying machine learning techniques for predictive modeling and decision making.
 
-##Contact Information 📬
+## Contact Information 📬
 
 LinkedIn: https://www.linkedin.com/in/paul-zamanian-abbassi-899126196/
+
 Email: paul.c.zamanian@gmail.com
 
 Feel free to reach out to me for any collaboration or job opportunities. I am actively seeking a challenging internship from January to June 2024, and I am eager to contribute my analytical insights and strategic solutions to drive success in the finance industry.
