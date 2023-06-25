@@ -1,20 +1,20 @@
-<div align="center" style="width:500px;">
+<div align="center">
 
 
-![AvatarMaker](https://github.com/PaulZaman/PaulZaman/assets/64264952/88df50dd-c846-4fb3-bb68-3fe328cd71e2)
 
-# < PaulZaman />
+<img src="https://github.com/PaulZaman/PaulZaman/assets/64264952/88df50dd-c846-4fb3-bb68-3fe328cd71e2" style="width:200px;border-radius:100px;">
 
-## About Me 🚀
-🇫🇷 
+#  < PaulZaman />
+
+## 🇫🇷 About Me 🇫🇷
 I am a passionate French student in computer science with a keen interest in financial markets. My GitHub projects reflect my diverse range of skills and interests, including Python games, mathematical algorithms (graph theory, algorithmic trading), full-stack websites, data analysis, and machine learning. 
-🇫🇷
 
-## Skills 🛠️
+
+##  🛠️ Skills 🛠️
 
 ### Programming Languages:
 
-<div style="width: 310px;">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
@@ -28,7 +28,7 @@ I am a passionate French student in computer science with a keen interest in fin
 </div>
 
 ### Web Development:
-<div style="width: 300px;">
+<div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
@@ -38,13 +38,13 @@ I am a passionate French student in computer science with a keen interest in fin
 </div>
 
 ### Databases:
-<div style="width: 200px;">
+<div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </div>
 
 ### Data Analysis/Manipulation:
-<div style="width: 350px;">
+<div>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
