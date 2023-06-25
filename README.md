@@ -24,6 +24,7 @@ These tools and languages enable me to tackle a wide range of projects and deliv
 Here are a few notable projects from my GitHub repository:
 
 **Python Games 🎮** - Collection of interactive games built using Python, showcasing my programming skills and creativity.
+
 **Algorithmic Trading 📈** - Implementation of various mathematical algorithms for trading in financial markets. Includes backtesting, data analysis, and strategy development.
 
 **Full Stack Websites 🌐** - Creation of dynamic and responsive websites using a combination of HTML, CSS, JavaScript, and frameworks like React and Vue.
