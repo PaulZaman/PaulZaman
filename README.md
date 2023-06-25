@@ -9,8 +9,6 @@
 ## 🇫🇷 About Me 🇫🇷
 I am a passionate French student in computer science with a keen interest in financial markets. My GitHub projects reflect my diverse range of skills and interests, including Python games, mathematical algorithms (graph theory, algorithmic trading), full-stack websites, data analysis, and machine learning. 
 
-<img href="url" src="https://github.com/PaulZaman/PaulZaman/assets/64264952/f2fcbc5c-77cf-4422-ab2a-6b1e67c1d2f3" height="auto" width="500">
-
 ##  🛠️ Skills 🛠️
 
 ### Programming Languages:
