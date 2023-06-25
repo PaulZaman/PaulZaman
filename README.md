@@ -1,4 +1,4 @@
-# [Paul/Zaman]
+# [PaulZaman]
 
 ## About Me 🚀
 
@@ -25,7 +25,9 @@ Here are a few notable projects from my GitHub repository:
 
 **Python Games 🎮** - Collection of interactive games built using Python, showcasing my programming skills and creativity.
 **Algorithmic Trading 📈** - Implementation of various mathematical algorithms for trading in financial markets. Includes backtesting, data analysis, and strategy development.
+
 **Full Stack Websites 🌐** - Creation of dynamic and responsive websites using a combination of HTML, CSS, JavaScript, and frameworks like React and Vue.
+
 **Data Analysis and Machine Learning 📊** - Projects focused on analyzing and extracting insights from data, applying machine learning techniques for predictive modeling and decision making.
 
 ##Contact Information 📬
