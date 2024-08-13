@@ -7,7 +7,7 @@
 
 
 ## 🇫🇷 About Me 🇫🇷
-I am a passionate French student in computer science with a keen interest in financial markets. My GitHub projects reflect my diverse range of skills and interests, including Python games, mathematical algorithms (graph theory, algorithmic trading), full-stack websites, data analysis, and machine learning. 
+I am a passionate French student in computer science with a keen interest in financial markets. My GitHub projects reflect my diverse range of skills and interests, including Python games, mathematical algorithms (graph theory, algorithmic trading), full-stack websites, data analysis, and machine learning. I have many other projects that I would love to mention, but they are private as they were developed specifically for companies.
 
 ##  🛠️ Skills 🛠️
 
