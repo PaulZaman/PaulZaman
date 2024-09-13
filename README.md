@@ -71,7 +71,7 @@ Here are a few notable projects from my GitHub repository:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-zamanian-abbassi-899126196/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.c.zamanian@gmail.com)
 
-Feel free to reach out to me for any collaboration or job opportunities. I am actively seeking a challenging internship from January to June 2024, and I am eager to contribute my analytical insights and strategic solutions to drive success in the finance industry.
+Feel free to reach out to me for any collaboration or job opportunities. I am actively seeking a challenging internship from November 2024 to April 2025, and I am eager to contribute my analytical insights and strategic solutions to drive success in the finance industry.
 
 Let's connect and explore new possibilities together! 🤝
 </div>
