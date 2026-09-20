@@ -1,77 +1,159 @@
 <div align="center">
 
-#  < PaulZaman />
+# Paul Zamanian
 
+**Quantitative Finance · Systematic Trading · Machine Learning · Software Engineering**
 
+Incoming **Master of Financial Engineering @ UC Berkeley Haas**
+Quantitative Technologist @ **Qube Research & Technologies**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Zamanian-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/paul-zamanian-abbassi-899126196/)
+[![Email](https://img.shields.io/badge/Email-paul.c.zamanian%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:paul.c.zamanian@gmail.com)
 
-
-## 🇫🇷 About Me 🇫🇷
-I am a passionate French student in computer science with a keen interest in financial markets. My GitHub projects reflect my diverse range of skills and interests, including Python games, mathematical algorithms (graph theory, algorithmic trading), full-stack websites, data analysis, and machine learning. I have many other projects that I would love to mention, but they are private as they were developed specifically for companies.
-
-##  🛠️ Skills 🛠️
-
-### Programming Languages:
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Assembly-0076A8?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-### Web Development:
-<div>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-</div>
+---
 
-### Databases:
-<div>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-</div>
+## About Me
 
-### Data Analysis/Manipulation:
-<div>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-</div>
+I'm a French computer science engineer focused on **quantitative finance, systematic trading and data-driven research**.
 
-These tools and languages enable me to tackle a wide range of projects and deliver robust solutions. From data analysis and machine learning to full-stack web development and algorithmic trading, I am equipped with the skills to excel in diverse domains.
+My work sits at the intersection of **financial markets, mathematics and software engineering**, with experience spanning quantitative trading infrastructure, portfolio analytics, derivatives, machine learning and market data.
 
-## Projects 💡
+I enjoy building end-to-end systems — from collecting and processing financial data to researching strategies, backtesting models and deploying live trading infrastructure.
 
-Here are a few notable projects from my GitHub repository:
+---
 
-**Python Games 🎮** - Collection of interactive games built using Python, showcasing my programming skills and creativity.
+## Current Focus
 
-**Algorithmic Trading 📈** - Implementation of various mathematical algorithms for trading in financial markets. Includes backtesting, data analysis, and strategy development.
+* 📈 Systematic & algorithmic trading
+* 📊 Quantitative research and statistical modelling
+* ⚡ Market data and low-latency systems
+* 🧠 Machine learning for financial markets
+* 🏗️ Research infrastructure and trading tools
+* 💹 Derivatives, volatility and market microstructure
 
-**Full Stack Websites 🌐** - Creation of dynamic and responsive websites using a combination of HTML, CSS, JavaScript, and frameworks like React and Vue.
+---
 
-**Data Analysis and Machine Learning 📊** - Projects focused on analyzing and extracting insights from data, applying machine learning techniques for predictive modeling and decision making.
+## Tech Stack
 
-## Contact Information 📬
+### Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-zamanian-abbassi-899126196/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.c.zamanian@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-Feel free to reach out to me for any collaboration or job opportunities. I am actively seeking a challenging internship from November 2024 to April 2025, and I am eager to contribute my analytical insights and strategic solutions to drive success in the finance industry.
+### Quant & Data
 
-Let's connect and explore new possibilities together! 🤝
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+---
+
+## Selected Projects
+
+### 📈 Systematic Trading Research
+
+Research and backtesting of systematic strategies across equities and cryptocurrencies, including:
+
+* Mean reversion and momentum
+* Cross-sectional asset rotation
+* Volatility-adjusted portfolio construction
+* Transaction cost modelling
+* Risk management and drawdown controls
+* Robustness and parameter stability testing
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+---
+
+### 🔮 Prediction Market Trading
+
+Research and live trading infrastructure for binary prediction markets.
+
+* Real-time market data collection
+* Theoretical pricing models
+* Signal generation
+* Execution and order management
+* Slippage and convergence analysis
+* PostgreSQL-based research pipeline
+
+`Python` `PostgreSQL` `Docker` `WebSockets`
+
+---
+
+### 📰 Financial News & Sentiment Research
+
+Tools for collecting and analysing financial news and company disclosures for systematic trading research.
+
+* SEC filings and investor-relations feeds
+* News classification
+* Sentiment analysis
+* Event-driven market research
+* LLM-assisted information extraction
+
+`Python` `NLP` `LLMs` `APIs`
+
+---
+
+### 🧠 Machine Learning
+
+Projects involving supervised learning, dimensionality reduction, reinforcement learning and optimisation applied to financial and real-world datasets.
+
+`Scikit-learn` `Pandas` `NumPy` `PyTorch`
+
+---
+
+## Experience
+
+**Qube Research & Technologies**
+*Quantitative Technologist Intern*
+
+Building infrastructure and data systems for systematic trading.
+
+**Monaco Asset Management**
+*Operations & Data Analyst Intern*
+
+Portfolio analytics, exposure monitoring, P&L, NAV and data automation.
+
+**Heroics Capital**
+*Assistant Portfolio Manager Intern*
+
+Quantitative risk analysis, derivatives, volatility research and portfolio tools.
+
+**SG29 Haussmann / Société Générale**
+*Quantitative & Data Roles*
+
+Portfolio analytics, optimisation, ESG research and quantitative modelling.
+
+---
+
+## Education
+
+🎓 **UC Berkeley, Haas School of Business**
+Master of Financial Engineering — Incoming
+
+🎓 **EFREI Paris**
+Computer Science / Data & Artificial Intelligence
+
+---
+
+<div align="center">
+
+### Always interested in markets, mathematics and building things.
+
 </div>
